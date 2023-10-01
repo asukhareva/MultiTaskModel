@@ -1,2 +1,2 @@
 # MultiTaskModel
-How to learn the weights between two losses
+How to learn the weights between two losses in PyTorch
